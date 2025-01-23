@@ -2,8 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 [![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
-[![twitter](https://img.shields.io/twitter/follow/alanhamlett?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/alanhamlett)
-[![twitter](https://img.shields.io/twitter/follow/wakatime?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/WakaTime)
+[![wonderful.dev](https://img.shields.io/badge/wonderful.dev-@alan-ff00a7)](https://wonderful.dev/alan)
+[![twitter](https://img.shields.io/twitter/follow/wakatime?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/WakaTime)
 
 - 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
 - 💬 Ask me about Go, Python, TypeScript, startups, and bootstrapping
