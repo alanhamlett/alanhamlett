@@ -5,7 +5,7 @@
 [![wonderful.dev](https://img.shields.io/badge/wonderful.dev-@alan-ff00a7)](https://wonderful.dev/alan)
 [![twitter](https://img.shields.io/twitter/follow/wakatime?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/WakaTime)
 
-- 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
+- 🔭 I’m currently working on [wakatime.com](https://wakatime.com) and [wonderful.dev](https://wonderful.dev)
 - 💬 Ask me about Go, Python, TypeScript, startups, and bootstrapping
 - 📫 How to reach me: [@alanhamlett](https://twitter.com/alanhamlett) or [@WakaTime](https://twitter.com/wakatime) on Twitter
 
